@@ -12,7 +12,7 @@
 
 ## Screenshots
 
-Coming soon!
+![Screenshot](https://github.com/GNUxeava/nisha-konsole/blob/master/konsole.png "I use Arch btw")
 
 ## Light Variant
 
